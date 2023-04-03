@@ -32,3 +32,5 @@ https://github.com/6geltrik/green-house/blob/main/foto/21.jpg
 15. Διάτρητη πλακέτα
 16. Χαρτόνια
 17. Ξύλα για τις περσίδες
+18. χρώματα
+19. κόλες
