@@ -10,7 +10,7 @@
 παραπάνω
 Όλες οι παραπάνω συνδέσεις των ενεργειακών πηγών ελέγχονται με ένα μικροεπεξεργαστή arduino. ( Η τάση που θα
 χρησιμοποιήσουμε βέβαια θα είναι 12volt για λόγους ασφάλειας).
-Το πρόγραμμα λειτουργίας του arduino φαίνεται εδώ: https://github.com/6geltrik/green-house/blob/main/program/sketch_dec29-me-fotokutara_kai_diak-4.ino
+Το πρόγραμμα λειτουργίας του arduino φαίνεται εδώ: https://github.com/6geltrik/green-house/blob/main/program/sketch_mart_25-olokliro.ino
 
  <img src = foto/21.jpg width = 500>  <img src = foto/sxedio.jpg width = 500>
 
