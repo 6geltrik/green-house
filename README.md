@@ -12,8 +12,10 @@
 χρησιμοποιήσουμε βέβαια θα είναι 12volt για λόγους ασφάλειας).
 Το πρόγραμμα λειτουργίας του arduino φαίνεται εδώ: https://github.com/6geltrik/green-house/blob/main/program/sketch_mart_25-olokliro.ino
 
+
  <img src = foto/21.jpg width = 500>  <img src = foto/sxedio.jpg width = 500>
 
+Την παρουσίαση και λειτουργία στο YouTube: 
 
 Λίστα προτεινόμενου εξοπλισμού 
 
