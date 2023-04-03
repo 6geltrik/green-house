@@ -12,7 +12,7 @@
 χρησιμοποιήσουμε βέβαια θα είναι 12volt για λόγους ασφάλειας).
 Το πρόγραμμα λειτουργίας του arduino φαίνεται εδώ: https://github.com/6geltrik/green-house/blob/main/program/sketch_dec29-me-fotokutara_kai_diak-4.ino
 
- <img src = foto/21.jpg width = 500> 
+ <img src = foto/21.jpg width = 500>  <img scr = foto/ΠΡΑΣΙΝΟ ΣΠΙΤΙ.jpg width = 500>
 
 
 Λίστα προτεινόμενου εξοπλισμού 
